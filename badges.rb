@@ -5,3 +5,5 @@ def badge_maker
   room_assignments = "hello, [name]! you'll be assigned to room [room_numbers]"
 end
 def printer
+  return badge_batch_creator
+  
