@@ -1,3 +1,3 @@
 def badge_maker
   intro = "hello! my name is [name]"
-  speakers = []
+  speakers = [Edgar, Ada, Charles, Alan,]
